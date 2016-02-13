@@ -1,2 +1,2 @@
 npm install
-./script/test.cmd
+call ./script/test.cmd
