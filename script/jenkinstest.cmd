@@ -1,4 +1,5 @@
-call npm install
-call npm rebuild
-call .\script\test.cmd
+REM call npm install
+REM call npm rebuild
+REM call .\script\test.cmd
+Echo 1
 exit
